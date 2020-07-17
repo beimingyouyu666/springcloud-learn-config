@@ -1,6 +1,5 @@
 spring:
-  application:
-    name: order
+
   datasource:
     username: root
     password: 123456
@@ -16,10 +15,6 @@ server:
   port: 8773
 #  servlet:
 #    context-path: /
-eureka:
-  client:
-    availability-zones:
-      default-Zone: http://localhost:8761/eureka
 
 ribbon:
   ReadTimeout: 5000
