@@ -1,6 +1,6 @@
 env: test
 boy:
-  name: lisi555
+  name: lisi666
 spring:
   datasource:
     username: root
@@ -21,3 +21,4 @@ server:
 ribbon:
   ReadTimeout: 5000
   SocketTimeout: 5000
+
