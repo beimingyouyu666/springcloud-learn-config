@@ -1,6 +1,6 @@
 env: test
 boy:
-  name: lisi15
+  name: lisi16
 spring:
   datasource:
     username: root
